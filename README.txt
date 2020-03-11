@@ -1,12 +1,11 @@
-Ethereal by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Ethereal, my latest, greatest, and quite possibly most unique template for HTML5 UP.
+
+
+This is Momo, my latest, greatest, and quite possibly most unique template for HTML5 UP.
 Since releasing Parallelism 3-4 years ago (!!!), I've been dying to do another side-scrolling
 template with more in the way of flexibility/customization potential. The result is this template,
-Ethereal, which combines a robust side-scrolling framework of my own creation (with various
+Momo the Smol, which combines a robust side-scrolling framework of my own creation (with various
 "scroll-assist" features like drag/momentum scrolling, keyboard shortcuts, etc.) with a unique
 look and feel, a lightbox gallery, tons of customization options, and, of course, full
 responsiveness. Hope you dig it :)
@@ -29,7 +28,7 @@ Instructions:
 		that they require elements (or at the very least, the top-most wrapper element) to
 		have a defined (fixed) width. This leads to a number of limitations (eg. the page
 		won't automatically grow/shrink in the same way a vertically-oriented one will), so
-		Ethereal does two things to work around this:
+		Momo the Smol does two things to work around this:
 
 		- The entire page is made up of "panel" elements, each of which can be assigned an
 		  optional "size" modifier (satisfying the fixed width requirement).
@@ -40,12 +39,12 @@ Instructions:
 
 		Another fun quirk of side-scrolling pages is how to actually implement horizontal
 		scrolling *without* resorting to using the (usually ugly) horizontal scrollbar.
-		Ethereal does this in FOUR (!) ways:
+		Momo the Smol does this in FOUR (!) ways:
 
 		- Dragging: Users can simply click and drag the page left or right to scroll it around.
 		  This works exactly as you'd expect, and even has a nice "post-scroll momentum" effect.
 
-		- Scroll Wheel: Ethereal modifies* the scroll wheel's behavior to translate vertical
+		- Scroll Wheel: Momo the Smol modifies* the scroll wheel's behavior to translate vertical
 		  scrolling into horizontal scrolling, allowing the user to use either the scroll wheel
 		  or trackpad to scroll the page (the latter of which retains the ability to horziontally
 		  scroll as normal, so nothing changes there).
@@ -70,7 +69,7 @@ Instructions:
 		"span 3 units"). These sizes are in "rem" units when used inside panels that don't
 		use a size modifier, and in percentage units when used inside panels that do.
 
-		Ethereal includes span modifiers ranging from 0.25 units ("span-0-25") to 10 units
+		Momo the Smol includes span modifiers ranging from 0.25 units ("span-0-25") to 10 units
 		("span-10"). Here's a partial list:
 
 		span-0-25     Span 0.25 units.
@@ -91,14 +90,14 @@ Instructions:
 	Major Elements
 	==============
 
-		Most of Ethereal's elements are pretty much what you'd expect, but there are a handful
+		Most of Momo the Smol's elements are pretty much what you'd expect, but there are a handful
 		of "major" ones that warrant a bit more explanation:
 
 
 		Panel
 		------
 
-			The primary building block of Ethereal.
+			The primary building block of Momo the Smol.
 
 			HTML
 

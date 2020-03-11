@@ -204,6 +204,9 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		.momodp{
+			background-image: url("../../images/momodp.png")
+		}
 		body:after {
 			pointer-events: none;
 			content: '';
